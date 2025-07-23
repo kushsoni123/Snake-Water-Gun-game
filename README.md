@@ -1,0 +1,1 @@
+An interactive Snake-Water-Gun game built with Python and a graphical user interface using Tkinter. The game allows users to play multiple rounds, tracks scores, and maintains a detailed history of outcomes.
